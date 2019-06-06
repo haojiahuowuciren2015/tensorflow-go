@@ -7,6 +7,7 @@ import (
 )
 
 func main(){
+	//TODO 
 	if len(os.Args) < 2{
 		log.Fatal("usage: ingrecognintion<img_url>")
 	}
